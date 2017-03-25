@@ -1,3 +1,16 @@
 .text-primary{
 font-size : 100px;
 }
+
+#navbar{
+	background-color: #0070ba;
+}
+
+.btn-default {
+	background-color:  #0070ba;
+	border: 2px solid white;
+	border-radius: 500px;
+
+	color: #fff;
+	font-weight: bold;
+}
