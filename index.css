@@ -1,16 +1,43 @@
+//defaults//////////////////////////////////////////////////////////////////
+
+
 .text-primary{
-font-size : 100px;
+	font-size : 100px;
 }
-
-#navbar{
-	background-color: #0070ba;
-}
-
 .btn-default {
 	background-color:  #0070ba;
-	border: 2px solid white;
+	border: 1px solid white;
+
 	border-radius: 500px;
 
 	color: #fff;
 	font-weight: bold;
 }
+
+////////////////////////////////////////////////////////////////////////////
+
+//containers and stuff//////////////////////////////////////////////////////
+
+@media (min-width: 1200px){
+	.container {
+		width: 970px;
+	}
+}
+.container-fluid{
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+
+////////////////////////////////////////////////////////////////////////////
+
+
+//navbars//////////////////////////////////////////////////////
+
+#navbar{
+	background-color: #0070ba;
+}
+.navbar-header{
+	width:100%;
+}
+
+
