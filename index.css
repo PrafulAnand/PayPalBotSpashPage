@@ -4,10 +4,10 @@
 .text-primary{
 	font-size : 100px;
 }
-
 .btn-default {
 	background-color:  #0070ba;
 	border: 1px solid white;
+
 	border-radius: 500px;
 
 	color: #fff;
