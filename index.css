@@ -14,3 +14,105 @@ font-size : 100px;
 	color: #fff;
 	font-weight: bold;
 }
+.global_footer{
+    width:100%;
+    min-height:8rem;
+    position:absolute;
+    top: 100%;
+    margin-top: -8rem;
+    border-top: 1px solid #fff;
+    background: #fff;
+    color: #9da3a6;
+    text-shadow: 0 1px 1px #fff;
+    
+    
+}
+
+.footer_primarycontent{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 1.5rem 1.5rem 0;
+}
+
+.footer_secondarycontent{
+    width: 100%;
+    border-top: 1px dotted #9da3a6;
+    text-align: right;
+    
+}
+.copyright_content{
+    color: #9da3a6;
+    font-family: PayPal Sans Big,sans-serif;
+    letter-spacing: .05rem;
+    margin-top: 1rem;
+    padding-left: .65rem;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+}
+.copyright_content:after{
+    content: "|";
+    display: inline-block;
+    padding-left: 1.5rem;
+    vertical-align: -.1rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+    line-height: 1em;
+}
+
+.privacy_legal_list{
+    margin-left: .75rem;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+}
+ .privacy_legal_list a{
+     color: #9da3a6;
+ } 
+ 
+li,p{
+    display:inline-block;
+    text-align: -webkit-match-parent;
+    line-height: 1.6;
+    font-weight: 400;
+    text-transform: none;
+    font-family: PayPal-Sans,sans-serif;
+}
+
+.help_security_list a{
+    
+    font-family: PayPal Sans Big,sans-serif;
+    
+    color: #6c7378;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.help_security_list a,.privacy_legal_list a{
+    display: block;
+    padding: 1rem .75rem .75rem;
+    font-weight: 400;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    padding: 0;
+    
+}
+privacy_legal_list a:hover{
+    
+    text-decoration: underline;
+}
+a:hover{
+    color: #2c2e2f;;
+}
+
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
