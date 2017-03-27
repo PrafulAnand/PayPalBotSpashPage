@@ -28,6 +28,6 @@ Reverse Engineer and replicate this splash page-
 ### Tasks/Components - 
 1. About
 2. How
-3. started
+3. Started
 
 
