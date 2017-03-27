@@ -26,10 +26,8 @@ Reverse Engineer and replicate this splash page-
 
 
 ### Tasks/Components - 
-1. Choose and set up an boilerplate
-2. set up the frame
-3. navbar/Header
-4. Footer
-5. Coming soon
+1. About
+2. How
+3. started
 
 
