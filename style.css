@@ -1,0 +1,86 @@
+
+/*   body             //////////////////////////////////*/
+
+
+body {
+
+    padding-top: 50px;
+
+    font-family: Raleway, sans-serif;
+    
+}
+
+.container {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+@media (min-width: 1200px)
+.container {
+    max-width: 1010px;
+}
+
+
+
+/*   navbar             //////////////////////////////////*/
+
+
+.navbar-header {
+    width: 100%;
+}
+
+
+
+/*   banner             //////////////////////////////////*/
+
+
+header {
+    width: 100vw;
+    font-size: 1.2em;
+    left: 50%;
+    background: url(https://www.paypal.com/slack/images/landing-9ac13f.png) 20% 50% / cover;
+    background-position: 20% 50%;
+}
+
+.contentbox {
+    margin: 40px 10px;
+}
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+
+header p {
+    color: white;
+    margin: auto;
+}
+
+/*   navigation             //////////////////////////////////*/
+
+a {
+    font-weight: bolder;
+}
+
+
+
+/*   about             //////////////////////////////////*/
+
+
+
+
+/*   how             //////////////////////////////////*/
+
+
+
+
+/*   started             //////////////////////////////////*/
+
+
+
+
+/*   footer             //////////////////////////////////*/
+
+footer {
+    margin: 50px 0;
+}
