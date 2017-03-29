@@ -22,12 +22,11 @@ Reverse Engineer and replicate this splash page-
 ### Team Members - 
 - Abhishek Sharma	-	@abhioncode
 - Praful Anand		-	@PrafulAnand
-- Abdul Rahman      -   @AbdulRahmance
 
 
 ### Tasks/Components - 
-1. About
-2. How
-3. started
+1. About section
+2. How section
+3. Finishing
 
 
