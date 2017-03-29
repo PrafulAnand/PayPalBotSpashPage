@@ -20,8 +20,9 @@ body {
     max-width: 1010px;
 }
 
-
-
+.center{
+    text-align:center
+}
 /*   navbar             //////////////////////////////////*/
 
 
