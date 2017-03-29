@@ -25,8 +25,8 @@ Reverse Engineer and replicate this splash page-
 
 
 ### Tasks/Components - 
+
 1. About section
 2. How section
 3. Finishing
-
 
