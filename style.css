@@ -77,10 +77,7 @@ a {
 
 
 /*   started             //////////////////////////////////*/
-.get_started {
-    font-size:30px;
-    margin:25px 0;
-}
+
 .slack-type {
     display: inline;
     font-family: monospace;
