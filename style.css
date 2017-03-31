@@ -20,8 +20,9 @@ body {
     max-width: 1010px;
 }
 
-
-
+.center{
+    text-align:center
+}
 /*   navbar             //////////////////////////////////*/
 
 
@@ -77,28 +78,18 @@ hr{
 }
 
 /*   how             //////////////////////////////////*/
+
+
 #how{
      padding: 0 30px;
     margin-bottom: 63px;
 }
+
+
 .examples {
     width: 100%;
     margin: 0 auto;
     max-width: 424px;
-}
-.slack-example {
-    display: block;
-    box-sizing: border-box;
-    width: 100%;
-    max-width: 424px;
-    height: 53px;
-    border-radius: 5px;
-    background-color: #f4f4f4;
-    padding: 6px 14px 7px 53px;
-    margin-bottom: 10px
-
-}
-.example {
     display: block;
     background-color: #fff;
     border-radius: 5px;
@@ -109,28 +100,26 @@ hr{
     line-height: 40px;
 }
 
-
-
+.slack-example {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 424px;
+    height: 53px;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    padding: 6px 14px 7px 53px;
+    margin-bottom: 10px
+}
 
 
 
 /*   started             //////////////////////////////////*/
-#started{
-        padding: 0 30px;
-    margin-bottom: 63px;
+
+.well{
+    padding: 0;
 }
-.get_started {
-    font-size:30px;
-    margin:25px 0;
-}
-.slack-type {
-    display: inline;
-    font-family: monospace;
-    background-color: #f5f7fa;
-    border: 1px solid #cbd2d6;
-    padding: 1px 2px;
-    border-radius: 5px;
-}
+
 .round{
    vertical-align: top;
     width: 35px;
